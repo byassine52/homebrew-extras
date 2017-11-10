@@ -2,7 +2,7 @@ cask 'font-sanfrancisco-ui' do
   version :latest
   sha256 :no_check
 
-  url 'https://developer.apple.com/fonts/downloads/SFUI.zip'
+  url 'https://developer.apple.com/fonts/downloads/SFPro.zip'
   name 'San Francisco UI Fonts'
   homepage 'https://developer.apple.com/fonts/'
 
