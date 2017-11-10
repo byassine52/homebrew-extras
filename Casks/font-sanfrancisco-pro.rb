@@ -1,12 +1,12 @@
-cask 'font-sanfrancisco-ui' do
+cask 'font-sanfrancisco-pro' do
   version :latest
   sha256 :no_check
 
   url 'https://developer.apple.com/fonts/downloads/SFPro.zip'
-  name 'San Francisco UI Fonts'
+  name 'San Francisco Pro Fonts'
   homepage 'https://developer.apple.com/fonts/'
 
-  pkg 'SFUI/San Francisco UI.pkg'
+  pkg 'SFPro/San Francisco Pro.pkg'
 
   caveats <<-EOS.undent
     The Apple San Francisco font is to be used solely for creating
