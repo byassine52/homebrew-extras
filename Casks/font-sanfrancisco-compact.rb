@@ -6,7 +6,7 @@ cask 'font-sanfrancisco-compact' do
   name 'San Francisco Compact Fonts'
   homepage 'https://developer.apple.com/fonts/'
 
-  pkg 'SFUI/San Francisco Compact.pkg'
+  pkg 'SFCompact/San Francisco Compact.pkg'
 
   caveats <<-EOS.undent
     The Apple San Francisco font is to be used solely for creating
