@@ -8,7 +8,7 @@ cask 'font-sanfrancisco-pro' do
 
   pkg 'SFPro/San Francisco Pro.pkg'
 
-  caveats <<-EOS.undent
+  caveats <<~EOS
     The Apple San Francisco font is to be used solely for creating
     mock-ups of user interfaces to be used in software products
     running on Apple’s iOS or OS X operating systems, as applicable.
